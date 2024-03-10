@@ -1,5 +1,5 @@
 # Power-BI-E-Shop-Dashboard
-This complete Power BI project has helped me comprehend data cleansing, data visualisation, and the creation of an E-Shop dashboard. in order for us to properly learn how to use Power BI.
+This complete Power BI project has helped me comprehend data cleaning, data visualisation, and the creation of an E-Shop dashboard. in order for us to properly learn how to use Power BI.
 
 Snapshot:
 
